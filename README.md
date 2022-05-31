@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Demo/Site
+
+[Spotify-clone](https://spotify-clone-5fdb3.web.app/)
+
 ## Available Scripts
 
 In the project directory, you can run:
